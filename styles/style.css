@@ -1,0 +1,138 @@
+#navbar{
+  position: relative;
+  width: 100%;
+  height: 50px;
+  background-color: #f4f4f4;
+  }
+
+body{
+  margin: 0;
+  font-size: 14px;
+  font-family: arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #757575;
+}
+
+#sign-in {
+  margin-right: 25px;
+  padding: 7px 15px 7px 15px;
+  background-color: blueviolet;
+  color: white;
+  font-weight: bold;
+  border-radius: 2px;
+}
+
+.sign-in-button{
+  display: inline-block;
+  float: right;
+  margin-left: 22.5px;
+  margin-top: 15px;
+}
+
+#grid {
+  width: 25px;
+  margin: 12px 15px 0 0;
+}
+.grid-icon{
+  margin-left: 22.5px;
+  display: inline-block;
+  float: right;
+}
+
+.gmail{
+  display: inline-block;
+  float: right;
+  margin-top: 15px;
+}
+
+.images-search{
+  margin-top: 15px;
+  margin-left: 25px;
+  display: inline-block;
+  float: right;
+}
+.center-container{
+  position: absolute;
+  width: 100%;
+  top: 25%;
+}
+
+.search-bar{
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  width: 520px;
+  height: 40px;
+}
+
+#input {
+  width: 500px;
+  margin-top: 25px;
+  height: 40px;
+}
+
+.microphone-icon {
+  position: absolute;
+  top: 0;
+  right: 20px;
+}
+
+#microphone {
+  height: 30px;
+  margin-top: 5px;
+}
+
+.buttons-container{
+  text-align: center;
+  width: 500px;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button{
+  background-color: #f4f4f4;
+  color: #757575;
+  padding: 12px 16px 12px 16px;
+  border-style: none;
+}
+
+.search-button{
+  display: inline-block;
+  font-weight: bold;
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  margin-right: 15px;
+
+}
+
+.feeling-lucky-button {
+  display: inline-block;
+  font-weight: bold;
+  font-family: arial,
+}
+
+footer {
+  text-decoration: none;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: #f4f4f4;
+}
+
+.left-content {
+  display: inline-block;
+  margin-top: 15px;
+  margin-left: 25px;
+}
+
+.right-content {
+  display: inline-block;
+  float: right;
+  margin-top: 15px;
+  margin-right: 25px;
+  }
